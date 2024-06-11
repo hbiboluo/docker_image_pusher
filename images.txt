@@ -1,2 +1,3 @@
 dreamacro/clash
 haishanh/yacd
+ashleykza/stable-diffusion-webui:latest
