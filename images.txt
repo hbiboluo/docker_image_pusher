@@ -1,1 +1,1 @@
-ashleykza/stable-diffusion-webui:latest
+codercom/code-server
