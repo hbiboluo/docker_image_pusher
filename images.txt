@@ -1,1 +1,1 @@
-siutin/stable-diffusion-webui-docker:latest-cpu
+debian:bookworm-slim
