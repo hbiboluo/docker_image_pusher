@@ -1,1 +1,1 @@
-emby/embyserver
+metatube/metatube-server
