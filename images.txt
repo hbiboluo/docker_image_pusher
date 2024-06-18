@@ -1,1 +1,1 @@
-snowdreamtech/frps
+emby/embyserver
