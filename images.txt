@@ -1,1 +1,1 @@
-devdocs/devdocs
+ruby:3.3.2
