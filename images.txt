@@ -1,1 +1,1 @@
-stulzq/azure-openai-proxy:v1.3.9
+docker.elastic.co/elasticsearch/elasticsearch:7.17.0
