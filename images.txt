@@ -1,1 +1,1 @@
-litellm/litellm:v1.63.14-stable
+litellm/litellm
