@@ -1,1 +1,1 @@
-whyour/qinglong:latest
+mysql:8.4.4
